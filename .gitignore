@@ -1,0 +1,12 @@
+
+# 忽略某个文件：.idea/tasks.xml
+
+
+# 忽略同一后缀文件：*.apk  *.dex
+
+
+# 忽略文件夹：.gradle/  build/  app/.cxx/
+
+
+# 文件夹内的忽略类型：build/*.apk
+
